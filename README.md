@@ -5,3 +5,8 @@ I don't yet have the skills to work as a programmer but thank you for acknowledg
 <img src="https://media.tenor.com/Krf7sKoeHNUAAAAC/wojak-loading-wojak.gif" width="200" height="200" />
 <br>The brain is still loading 🤡
 </p>
+<div align="center">
+  
+![PGeorge2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=PGeorge2004&show_icons=true)
+
+</div>
